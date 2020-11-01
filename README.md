@@ -8,4 +8,5 @@ The principle behind nearest neighbor classification consists in finding a prede
 Here I have tried to experiment with three different approaches:
 
 1- Classifying Coins based on radius and weight
-2- 
+2- Hand Written Digits
+3-
