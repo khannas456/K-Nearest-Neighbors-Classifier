@@ -6,4 +6,6 @@ This means that the concept of the k-nearest neighbor classifier is part of our 
 The principle behind nearest neighbor classification consists in finding a predefined number, i.e. the 'k' - of training samples closest in distance to a new sample, which has to be classified.
 
 Here I have tried to experiment with three different approaches:
-1- 
+
+1- Classifying Coins based on radius and weight
+2- 
